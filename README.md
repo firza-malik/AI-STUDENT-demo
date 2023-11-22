@@ -1,3 +1,4 @@
 # AI-STUDENT-demo
-this my first git repository
-auther=firza ghouri
+this my first git repository.
+<br>
+auther-firza ghouri
